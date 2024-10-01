@@ -1,4 +1,4 @@
-# Smart-Irrigation
+# SmartSprout
 **Using an Artificial Neural Network along with an IoT device to check whether irrigation is required by the crops or not.**
 
 **Reading the data from the CSV file keeping the required data and dropping unnamed files.**
